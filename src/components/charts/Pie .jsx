@@ -44,3 +44,4 @@ const Doughnut = ({ id, data, legendVisiblity, height }) => {
 };
 
 export default Doughnut;
+
